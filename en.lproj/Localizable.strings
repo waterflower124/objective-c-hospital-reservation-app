@@ -1,0 +1,302 @@
+/* 
+  Localizable.strings
+  Hospital
+
+  Created by Redixbit on 05/08/16.
+  Copyright (c) 2016 Redixbit. All rights reserved.
+*/
+//KM
+"km"="km";
+
+//Share App
+"AppDesc"="You can search near by doctors, hospitals and pharmacy by using this app,";
+
+//View Controller
+"Home_Doctor"="DOCTOR";
+"Home_Pharmacies"="PHARMACIES";
+"Home_Hospital"="HOSPITAL";
+"Home_Title1"="Find Nearest Doctor";
+"Home_Title2"="& Book Appoitment by this App";
+"Home_Doctor_Subtitle"="Search Doctors by their speciality or by city or near by you. You can find best doctors just one click away.";
+"Home_Pharmacies_Subtitle"="Search Medicines dispencaries here. You can find by city or near by you or just by using name.";
+"Home_Hospital_Subtitle"="Search Hospitals by city or near by you or just by using hospital name. You can find best Hospitals just one click away.";
+"shareApp"="You Can download %@ App from %@";
+"home_title" = "Home";
+"money_unit" = "SAR";
+"profile_label" = "Profile";
+"signin_button" = "Sign In";
+
+//Language
+"language_title" = "Change Language";
+"english" = "English";
+"arabic" = "Arabic";
+
+//Speciality
+"Speciality_Title"="Speciality";
+
+//List
+"List_Nearby"="NearBy(Location)";
+"List_City"="City";
+"List_ALphabetical"="Alphabetical Order";
+"List_Ratting"="RATING";
+"List_Distance"="DISTANCE";
+
+
+//Detail
+"Detail_Rating"="RATING";
+"Detail_Distance"="DISTANCE";
+"Detail_Service"="SERVICES";
+"Detail_Timing"="TIMING";
+"Detail_Share"="SHARE";
+"Detail_Healthcare"="HEALTH CARE";
+"Detail_Title"="Profile";
+"doctor_symbol"="D";
+"pharmacy_symbol"="P";
+"hospital_symbol"="H";
+"Detail_Description" = "DESCRIPTION";
+"buynow_button_text" = "Buy Now";
+"offer_label" = "Offer";
+"price_label" = "Price";
+"offer_expire" = "Offer Expires after";
+"offer_expire_day" = "Day(s)";
+"hours_remaining" = "Hours remaining";
+
+//Slider
+"SliderTitle1"="Find out best doctors";
+"SliderDesc1"="Now find best doctors is very easy, you can search nearly doctors or sort by rating or service or speciality";
+"SliderSubDesc1"="You can also book appointment or contact doctors directly.";
+
+"SliderTitle2"="Find Nearby Pharmacy";
+"SliderDesc2"="You can search pharmacy near you, by using sorting functions by city or map its very  easy to find pharmacy story,";
+"SliderSubDesc2"="You can upload prescription to pharmacy and get medicine at home,";
+
+"SliderTitle3"="Find Nearby Hospitals";
+"SliderDesc3"="You can search Hospitals near you, by using sorting functions by city or map its very  easy to find Hospitals,";
+"SliderSubDesc3"="You can check what facilities available at hospitals and contact them";
+
+//Review
+"Review_Title"="Review";
+"Review_Exp"="YOUR EXPERIENCE";
+"Review_Submit"="Submit";
+"Review_Cancel"="Cancel";
+"Review_Placeholder"="Write Review";
+
+//Warning Alert [ internet Connection ]
+"Warning Alert Title"="Warning";
+"Warning Alert SubTitle"="No-Internet connection";
+"Warning Alert closeButtonTitle"="Ok";
+
+//Error Alert [Data Not Found]
+"Error Alert Title"="Info";
+"Error Alert SubTitle"="No Record Available!";
+"Error Alert closeButtonTitle"="Ok";
+"Error Alert Payment" = "Payment Failed. Please try again.";
+
+//Favorite
+"Favorite_Title"="Favorite";
+"Favorite_Doctor"="Doctor1";
+"Favorite_Hospital"="Hospital1";
+"Favorite_Pharmacies"="Pharmacies1";
+
+// AppointmentList
+"Appointment_Title"="Appointments";
+
+
+//Setting
+"Setting_title"="Setting";
+"Setting_CurrentCity"="Current Location";
+"Setting_AvailableLocation"="Available Location";
+"Setting_Radius"="Radius";
+"Setting_Order"="Order By";
+"Setting_Asc"="Ascending";
+"Setting_Des"="Descending";
+"Setting_Redius" = "Search by Radius";
+"Setting_distance" = "Distance";
+"Setting_ordering" = "Ordering";
+
+//Appointment
+"Appointment_Title"="Appointment";
+"Appointment_Mobile"="Mobile Number";
+"Appointment_Desc"="Description";
+"Appointment_book"="Book Appointment";
+"Appointment_noti_title"="Doctor Finder";
+"Appointment_noti_subtitle"="Book Appointment Complete";
+"lblNote"="Notes :";
+"lbl_note1"="1. Appointment time may get change if already allocated";
+"lbl_note2"="2. This form is to request appointment.if your appointment confirmed you will get mail from doctor.";
+"lbl_note3"="3. For Emmergancy direct visit is advisable";
+"OrderTitle"="Order Medicine";
+
+// PaymentConfirmation
+"PaymentConfirmation_Title"="Payment Confirmation";
+
+/// order review
+"OrderReviewTitle" = "Order Review";
+"OfferName" = "Offer Name";
+"CustomerName" = "Customer Name";
+"BookCode" = "Book Code";
+"CenterName" = "Center Name";
+"EmailAddress" = "Email Address";
+"OfferPrice" = "Offer Price";
+"ConfirmationPayment" = "Confirmation Payment";
+"Remaining" = "Remaining";
+"MobileNumber" = "Mobile Number";
+"NoteFirst" = "1. Appointments are subject to change base on Center operating hours.";
+"NoteSecond" = "2. This offer has an expiry date, you can redeem it at anytime before expiration date.";
+"NoteThird" = "3. VAT conditions only.";
+
+// payment
+"PaymentTitle" = "Make a Payment";
+
+//   privacy policy
+"Privacy_Title"="Privacy Policy";
+
+//   terms of use
+"Terms_Title"="Terms of Use";
+
+//Alert [All field Compulsary]
+"Alert_title"="Alert!";
+"Alert_Sub"="All Field Must Be Fill";
+"Appointment_subtitle"="Select Future";
+"Alert_Close"="Ok";
+
+//Login fail Alert
+"LoginAlert_title"="Error";
+"LoginAlert_subtitle"="Inavlild Username Or Password";
+"LoginAlert_closetitle"="Ok";
+
+//Login Rquire ALert
+"Alert_title1"="Login Require";
+"Alert_Sub1"="You need to login first to add your review, Do you want login now?";
+"Alert_Sub2"="You need to login first to book appointment, Do you Want Login Now?";
+"Alert_Sub3"="You need to login first to order medicine, Do you Want Login Now?";
+"Alert_Close1"="No";
+"Alert_Yes"="Yes";
+//Logout
+"Logout_Sub1"= "Are you sure you want to logout ?";
+
+//Info ALert
+"Info_tittle"="Info";
+"Info_subtitle"="Review Add Successfully";
+"Info_close"="Ok";
+"Review Alert"="Please give your comments";
+"Review Rate"="Please give your Rating";
+
+//Loading text
+"Loading_text"="Loading..";
+
+//Appointment book
+"Book_title"="Appointment Booked";
+"Book_Subtitle"="Your Appointment Booked Successfully";
+"Book_close"="Ok";
+
+//Sidebar
+"Sidebar_Home"="Home";
+"Sidebar_Category"="Category";
+"Sidebar_Fav"="Favorites";
+"Sidebar_Appointments"="Appointments";
+"Sidebar_About"="About Us";
+"Sidebar_Social"="Social Sharing";
+"Sidebar_Setting"="Setting";
+"Sidebar_profile"="Profile";
+"Sidebar_Privacy"="Privacy Policy";
+"Sidebar_Terms"="Terms of Use";
+
+//About Us
+"LblDesc"="Loram Maintenance of Way. All rights reserved Speed . Performance . Reliability Loram : Stays on Track with Mobile Data Colloction and Reporting Eric Mannine Print Loram Maintenance of Way, All rights reserved Speed · Performance · Reliability Loram: Stays on Track with Mobile Data Collection and Reporting Eric Manninen Principal Engineer Electrical Loram Maintenance of Way, All rights reserved Speed · Performance · Reliability Loram: Stays on Track with Mobile Data Collection and Reporting Eric Manninen Principal Engineer Electrical";
+"LblTitel" = "Doctor Finder + Hospitals & Pharmacy";
+"Version" = "Version :";
+"VersionName" = "1.0";
+
+"LblContactUs"="Contact Us";
+"LblFreaktemplate"="Freaktemplate";
+"LblMail"="Info@freaktemplate.com";
+"LblWeb"="www.Freaktemplate.xyz";
+
+"LblAbout"="About Us";
+"LblAboutDesc"="Loram Maintenance of Way. All rights reserved Speed . Performance . Reliability Loram : Stays on Track with Mobile Data Colloction and Reporting Eric Mannine Print Loram Maintenance of Way, All rights reserved Speed · Performance · Reliability Loram: Stays on Track with Mobile Data Collection and Reporting Eric Manninen Principal Engineer Electrical Loram Maintenance of Way, All rights reserved Speed · Performance · Reliability Loram: Stays on Track with Mobile Data Collection and Reporting Eric Manninen Principal Engineer Electrical";
+
+
+//Lgout
+"Logout_Sub"="You Are Logout Succesfully";
+"Register_Sub"="You Are Register Succesfully";
+
+
+//Register
+"take"="TAKE A PICTURE";
+"select"="SELECT A PICTURE";
+"register_title" = "REGISTER";
+"termsagree_label" = "I agree all terms and condition";
+"register_button" = "Register";
+
+// Login screen
+"login_title" = "LOGIN";
+"username_placeholder" = "Username";
+"password_placeholder" = "Password";
+"havenotaccount_label" = "Don't have Account?";
+"createaccount_button" = "Create One New";
+"or_button" = "Or";
+"forgot_button" = "Forgot Password";
+
+// forgot password
+"forgot_title" = "FORGOT PASSWORD";
+"phonenumber_placeholder" = "Phone number";
+"sendnewpassword_button" = "Send a new password";
+
+//verification screen
+"verification_code" = "VERIFICATION";
+"verificationcode_placeholder" = "Verification Code";
+"verify_button" = "Verify Code";
+
+//register full
+"email_placeholder" = "Mail Address";
+"male_label" = "Male";
+"female_label" = "Female";
+"birthday_label" = "Date of Birth";
+
+
+//Login Require field Alert
+"Reg_username"="Enter username";
+"Reg_password"="Enter password";
+"Reg_phonenumber" = "Enter phone number";
+"Reg_mail"="Enter Email";
+"Reg_img"="Select Image";
+"Reg_terms" = "Please check Terms and Condition";
+"Reg_phoneverifyerror" = "Error occured. Please try again";
+"Reg_verifycode" = "Enter Verification Code";
+"Reg_complete" = "Please complete registration";
+"Reg_nouser" = "No user exist";
+"Reg_passchanged" = "Password changed successfully. We will send new password via SMS shortly.";
+
+//Apointment Require field Alert
+"Appointment_moible"="Invalid Mobile Number";
+"Appointment_desc"="Enter Description";
+
+//Social Share
+"Social_Title"="Share On";
+"Social_Close"="Cancel";
+
+
+//Whatsapp
+"WhatsApp Alert Title"="WhatsApp not installed.";
+"WhatsApp Alert SubTitle"="Your device has no WhatsApp installed.";
+"WhatsApp Alert closeButtonTitle"="OK";
+
+//Oder Medicine
+"imageAlert" = "please select image";
+"mobileAlert" = "please enter mobile number";
+"descAlere" = "please enter Description";
+"lblNote1"="Notes :";
+"lbl_note11"="1. Appointment time may get change if already allocated";
+"lbl_note22"="2. This form is to request appointment.if your appointment confirmed you will get mail from doctor.";
+"lbl_note33"="3. For Emmergancy direct visit is advisable";
+//Helthcare Page
+"lbl_phone"="Phone No.";
+"message alert"="Your device does not support SMS service";
+
+
+
+"valid_email_error" = "Invalid Email Address";
+"password_empty" = "Enter Password";
+"dob_empty" = "Select Date Of Birth";
+

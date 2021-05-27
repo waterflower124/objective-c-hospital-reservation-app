@@ -1,0 +1,213 @@
+/*
+  Localizable.strings
+  Hospital
+
+  Created by Redixbit on 05/08/16.
+  Copyright (c) 2016 Redixbit. All rights reserved.
+*/
+//KM
+"km"="كم";
+
+//Share App
+"AppDesc"="تستطيع من خلال هذا التطبيق البحث عن افضل العروض الطبيه";
+
+//View Controller
+"Home_Doctor"="العروض";
+"Home_Pharmacies"="PHARMACIES";
+"Home_Hospital"="HOSPITAL";
+"Home_Title1"="جد افضل العروض";
+"Home_Title2"="& Book Appoitment by this App";
+"Home_Doctor_Subtitle"="Search Doctors by their speciality or by city or near by you. You can find best doctors just one click away.";
+"Home_Pharmacies_Subtitle"="Search Medicines dispencaries here. You can find by city or near by you or just by using name.";
+"Home_Hospital_Subtitle"="Search Hospitals by city or near by you or just by using hospital name. You can find best Hospitals just one click away.";
+"shareApp"="You Can download %@ App from %@";
+"home_title" = "الصفحة الرئيسية";
+
+//Speciality
+"Speciality_Title"="Speciality";
+
+//List
+"List_Nearby"="حسب الموقع)";
+"List_City"="المدينة";
+"List_ALphabetical"="البحث حسب العروض";
+"List_Ratting"="التقييم";
+"List_Distance"="المسافه";
+
+
+//Detail
+"Detail_Rating"="التقييم";
+"Detail_Distance"="المسافه";
+"Detail_Service"="الخدمات";
+"Detail_Timing"="اوقات العمل";
+"Detail_Share"="مشاركه";
+"Detail_Healthcare"="الوصف";
+"Detail_Title"="الملف الشخصي";
+"doctor_symbol"="D";
+"pharmacy_symbol"="P";
+"hospital_symbol"="H";
+"Detail_Description" = "الوصف";
+
+//Slider
+"SliderTitle1"="Find out best doctors";
+"SliderDesc1"="Now find best doctors is very easy, you can search nearly doctors or sort by rating or service or speciality";
+"SliderSubDesc1"="You can also book appointment or contact doctors directly.";
+
+"SliderTitle2"="Find Nearby Pharmacy";
+"SliderDesc2"="You can search pharmacy near you, by using sorting functions by city or map its very  easy to find pharmacy story,";
+"SliderSubDesc2"="You can upload prescription to pharmacy and get medicine at home,";
+
+"SliderTitle3"="Find Nearby Hospitals";
+"SliderDesc3"="You can search Hospitals near you, by using sorting functions by city or map its very  easy to find Hospitals,";
+"SliderSubDesc3"="You can check what facilities available at hospitals and contact them";
+//Review
+"Review_Title"="Review";
+"Review_Exp"="YOUR EXPERIENCE";
+"Review_Submit"="Submit";
+"Review_Cancel"="Cancel";
+"Review_Placeholder"="Write Review";
+
+//Warning Alert [ internet Connection ]
+"Warning Alert Title"="Warning";
+"Warning Alert SubTitle"="No-Internet connection";
+"Warning Alert closeButtonTitle"="Ok";
+
+//Error Alert [Data Not Found]
+"Error Alert Title"="Info";
+"Error Alert SubTitle"="No Record Available!";
+"Error Alert closeButtonTitle"="Ok";
+
+//Favorite
+"Favorite_Title"="Favorite";
+"Favorite_Doctor"="Doctor1";
+"Favorite_Hospital"="Hospital1";
+"Favorite_Pharmacies"="Pharmacies1";
+
+//Setting
+"Setting_title"="Setting";
+"Setting_CurrentCity"="Current Location";
+"Setting_AvailableLocation"="Available Location";
+"Setting_Radius"="Radius";
+"Setting_Order"="Order By";
+"Setting_Asc"="Ascending";
+"Setting_Des"="Descending";
+"Setting_Redius" = "Search by Radius";
+
+//Appointment
+"Appointment_Title"="الموعد";
+"Appointment_Mobile"="رقم الهاتف";
+"Appointment_Desc"="الوصف";
+"Appointment_book"="شراء العرض";
+"Appointment_noti_title"="ميد بوكينج";
+"Appointment_noti_subtitle"="Book Appointment Complete";
+"lblNote"="Notes :";
+"lbl_note1"="1. Appointment time may get change if already allocated";
+"lbl_note2"="2. This form is to request appointment.if your appointment confirmed you will get mail from doctor.";
+"lbl_note3"="3. For Emmergancy direct visit is advisable";
+"OrderTitle"="Order Medicine";
+
+//Alert [All field Compulsary]
+"Alert_title"="Alert!";
+"Alert_Sub"="All Field Must Be Fill";
+"Appointment_subtitle"="Select Future";
+"Alert_Close"="Ok";
+
+//Login fail Alert
+"LoginAlert_title"="Error";
+"LoginAlert_subtitle"="Inavlild Username Or Password";
+"LoginAlert_closetitle"="Ok";
+
+//Login Rquire ALert
+"Alert_title1"="Login Require";
+"Alert_Sub1"="You need to login first to add your review, Do you want login now?";
+"Alert_Sub2"="You need to login first to book appointment, Do you Want Login Now?";
+"Alert_Sub3"="You need to login first to order medicine, Do you Want Login Now?";
+"Alert_Close1"="No";
+"Alert_Yes"="Yes";
+//Logout
+"Logout_Sub1"= "هل تريد بالتأكيد تسجيل الخروج";
+
+//Info ALert
+"Info_tittle"="معلومات";
+"Info_subtitle"="Review Add Successfully";
+"Info_close"="Ok";
+"Review Alert"="Please give your comments";
+"Review Rate"="Please give your Rating";
+
+//Loading text
+"Loading_text"="تحميل..";
+
+//Appointment book
+"Book_title"="Appointment Booked";
+"Book_Subtitle"="Your Appointment Booked Successfully";
+"Book_close"="Ok";
+
+//Sidebar
+"Sidebar_Home"="الرئيسيه";
+"Sidebar_Fav"="المفضله";
+"Sidebar_About"="من نحن";
+"Sidebar_Social"="مشاركه";
+"Sidebar_Setting"="الإعدادات";
+"Sidebar_profile"="الملف الشخصي";
+
+//About Us
+"LblDesc"="Loram Maintenance of Way. All rights reserved Speed . Performance . Reliability Loram : Stays on Track with Mobile Data Colloction and Reporting Eric Mannine Print Loram Maintenance of Way, All rights reserved Speed · Performance · Reliability Loram: Stays on Track with Mobile Data Collection and Reporting Eric Manninen Principal Engineer Electrical Loram Maintenance of Way, All rights reserved Speed · Performance · Reliability Loram: Stays on Track with Mobile Data Collection and Reporting Eric Manninen Principal Engineer Electrical";
+"LblTitel" = "ميدبوكنج";
+"Version" = "النسخه :";
+"VersionName" = "1.0";
+
+"LblContactUs"="اتصل بنا";
+"LblFreaktemplate"="Freaktemplate";
+"LblMail"="Info@freaktemplate.com";
+"LblWeb"="www.Freaktemplate.xyz";
+
+"LblAbout"="من نحن";
+"LblAboutDesc"="Loram Maintenance of Way. All rights reserved Speed . Performance . Reliability Loram : Stays on Track with Mobile Data Colloction and Reporting Eric Mannine Print Loram Maintenance of Way, All rights reserved Speed · Performance · Reliability Loram: Stays on Track with Mobile Data Collection and Reporting Eric Manninen Principal Engineer Electrical Loram Maintenance of Way, All rights reserved Speed · Performance · Reliability Loram: Stays on Track with Mobile Data Collection and Reporting Eric Manninen Principal Engineer Electrical";
+
+
+//Lgout
+"Logout_Sub"="تم تسجيل الخروج بنجاح";
+"Register_Sub"="تم التسجيل بنجاح";
+
+
+//Register
+"take"="TAKE A PICTURE";
+"select"="SELECT A PICTURE";
+
+//Login Require field Alert
+"Reg_username"="رقم الهاتف";
+"Reg_password"="كلمة المرور";
+"Reg_phonenumber" = "ادخل رقم الهاتف";
+"Reg_mail"="البريد الإلكتروني";
+"Reg_img"="Select Image";
+"Reg_terms" = "Please check Terms and Condition";
+"Reg_phoneverifyerror" = "Error occured. Please try again";
+"Reg_verifycode" = "Enter Verification Code";
+"Reg_complete" = "Please complete registration";
+"Reg_nouser" = "No user exist";
+"Reg_passchanged" = "Password changed successfully. We will send new password via SMS shortly.";
+
+//Apointment Require field Alert
+"Appointment_moible"="Invalid Mobile Number";
+"Appointment_desc"="ةصف العرض";
+
+//Social Share
+"Social_Title"="";
+"Social_Close"="إلغاء";
+
+
+//Whatsapp
+"WhatsApp Alert Title"="WhatsApp not installed.";
+"WhatsApp Alert SubTitle"="Your device has no WhatsApp installed.";
+"WhatsApp Alert closeButtonTitle"="OK";
+
+//Oder Medicine
+"imageAlert" = "please select image";
+"mobileAlert" = "please enter mobile number";
+"descAlere" = "please enter Description";
+"lblNote1"="Notes :";
+"lbl_note11"="1. Appointment time may get change if already allocated";
+"lbl_note22"="2. This form is to request appointment.if your appointment confirmed you will get mail from doctor.";
+"lbl_note33"="3. For Emmergancy direct visit is advisable";
+//Helthcare Page
+"lbl_phone"="Phone No.";
+"message alert"="Your device does not support SMS service";

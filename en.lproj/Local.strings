@@ -1,0 +1,29 @@
+/* 
+  Local.strings
+  Hospital
+
+  Created by Redixbit on 04/08/16.
+  Copyright (c) 2016 Redixbit. All rights reserved.
+*/
+"Home_Doctor"="DOCTOR";
+"Home_Pharmacies"="PHARMACIES";
+"Home_Hospital"="HOSPITAL";
+"Home_Title1"="Find Nearest Doctor";
+"Home_Title2"="& Book Appoitment by this App";
+
+
+//Speciality
+"Speciality_Title"="Speciality";
+
+//List
+"List_Nearby"="NearBy(Location)";
+"List_City"="City";
+"List_ALphabetical"="Alphabetical Order";
+
+//Detail
+"Detail_Rating"="RATING";
+"Detail_Distance"="DISTANCE";
+"Detail_Service"="SERVICES";
+"Detail_Timing"="TIMING";
+"Detail_Share"="SHARE";
+"Detail_Healthcare"="HEALTHCARE";
